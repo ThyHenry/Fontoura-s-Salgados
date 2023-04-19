@@ -120,6 +120,7 @@ header {
     border-radius: 30px;
     box-shadow: 3px 4px 10px 2px #2a2a2a;
     transition: 0.6s;
+    background: white;
 }
 
 .menu {
@@ -139,6 +140,10 @@ header {
     margin-right: 40px ;
     margin-top: 30px;
     transition: 0.6s;
+}
+
+#link_minipizzas {
+    margin-top: 70px;
 }
 
 #end_line {
@@ -194,7 +199,7 @@ header {
 .food {
     display: inline-block;
     width:100px;
-    height: 85px;
+    height: 120px;
     border-radius: 10px;
 }
 
