@@ -3,7 +3,7 @@ let Products= [{
     food_name: "30 salgados mistos",
     description: "descrição",
     price: "25,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.40.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.40.jpeg",
     option: "",
 },
 
@@ -12,7 +12,7 @@ let Products= [{
     food_name: "Casalzinho",
     description: "descrição",
     price: "30,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.41 (1).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.41 (1).jpeg",
     option: "",
 },
 
@@ -21,7 +21,7 @@ let Products= [{
     food_name: "75 salgados mistos",
     description: "descrição",
     price: "65,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.41 (2).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.41 (2).jpeg",
     option: "",
 },
 
@@ -31,7 +31,7 @@ let Products= [{
     food_name: "50 salgados mistos",
     description: "descrição",
     price: "40,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.41 (3).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.41 (3).jpeg",
     option: "",
 },
 
@@ -41,7 +41,7 @@ let Products= [{
     food_name: "50 salgados mistos + 10 pasteis doces",
     description: "descrição",
     price: "50,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.41.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.41.jpeg",
     option: "",
 },
 
@@ -51,7 +51,7 @@ let Products= [{
     food_name: "Na casa da sogra",
     description: "descrição",
     price: "75,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.42 (1).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.42 (1).jpeg",
     option: "",
 },
 
@@ -61,7 +61,7 @@ let Products= [{
     food_name: "20 salgados mistos",
     description: "descrição",
     price: "20,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.42.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.42.jpeg",
     option: "",
 },
 
@@ -71,7 +71,7 @@ let Products= [{
     food_name: "Só pra mim",
     description: "descrição",
     price: "23,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.43 (1).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.43 (1).jpeg",
     option: "",
 },
 
@@ -82,7 +82,7 @@ let Products= [{
     food_name: "Familia 1",
     description: "descrição",
     price: "90,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.43.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.43.jpeg",
     option: "",
 },
 
@@ -92,7 +92,7 @@ let Products= [{
     food_name: "100 salgados mistos",
     description: "descrição",
     price: "80,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.44 (1).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.44 (1).jpeg",
     option: "",
 },
 
@@ -102,7 +102,7 @@ let Products= [{
     food_name: "20 pasteis de chocolate preto",
     description: "",
     price: "20,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.38.44.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.38.44.jpeg",
     option: "",
 },
 
@@ -112,7 +112,7 @@ let Products= [{
     food_name: "20 pasteis carne moida",
     description: "",
     price: "20,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.41.22.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.41.22.jpeg",
     option: "",
 },
 
@@ -122,7 +122,7 @@ let Products= [{
     food_name: "20 bolinhas de queijo",
     description: "",
     price: "20,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.41.23 (1).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.41.23 (1).jpeg",
     option: "",
 },
 
@@ -132,7 +132,7 @@ let Products= [{
     food_name: "20 enroladinhos de salsicha",
     description: "",
     price: "20,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.41.23 (2).jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.41.23 (2).jpeg",
     option: "",
 },
 
@@ -142,7 +142,7 @@ let Products= [{
     food_name: "20 coxinhas de frango",
     description: "",
     price: "20,00",
-    image: "../img/Image/WhatsApp Image 2024-02-25 at 12.41.23.jpeg",
+    image: "img/WhatsApp Image 2024-02-25 at 12.41.23.jpeg",
     option: "",
 },
 
