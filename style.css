@@ -14,11 +14,11 @@ a {
     color: black;
 }
 
-main {
+#main {
     position: relative;
 }
 
-header {
+#header {
     position: fixed;
     left: 0;
     top: 0;
@@ -150,7 +150,7 @@ header {
     margin-top: 80px;
 }
 
-.layout {
+#layout {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -159,6 +159,10 @@ header {
     display: grid;
     grid-template: 1fr 1fr/1fr 1fr ;
     transition: 0.6s;
+}
+
+#clone {
+    display: none;
 }
 
 .conteiner {
@@ -170,7 +174,7 @@ header {
     margin-right: 50px;
     padding: 20px;
     border: 2px solid #c6c6c6;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 4px 7px 10px 1px #6d6d6d;
     background-color: white;
     transition: 0.6s;
@@ -198,9 +202,14 @@ header {
 
 .food {
     display: inline-block;
-    width:100px;
+    width:120px;
     height: 120px;
     border-radius: 10px;
+}
+
+.ingredients {
+    padding-bottom: 5px;
+    color: gray;
 }
 
 #footer {
@@ -341,7 +350,7 @@ header {
         font-size: 13px;
     }
 
-    .layout {
+    #layout {
         grid-template: 1fr/ 1fr;
     }
 
@@ -354,7 +363,7 @@ header {
     margin-left: 0px;
     padding: 20px;
     border: 2px solid #c6c6c6;
-    border-radius: 10px;
+    border-radius: 0px;
     box-shadow: 4px 7px 10px 1px #6d6d6d;
     background-color: white;
 } 
