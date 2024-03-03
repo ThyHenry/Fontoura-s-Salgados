@@ -31,3 +31,27 @@ Products.map((item, index)=>{
    product.querySelector(".center .responsive_price").innerHTML = "R$ " + item.price;
    product.querySelector(".product .food").src = item.image;
 })
+
+Combos.map((item, index)=>{
+
+    let product = document.querySelector("#clone .conteiner").cloneNode(true);
+
+    document.getElementById("combo").append(product);
+
+    product.querySelector(".center .responsive_food").innerHTML = item.food_name;
+   product.querySelector(".center .ingredients").innerHTML = item.description;
+   product.querySelector(".center .responsive_price").innerHTML = "R$ " + item.price;
+   product.querySelector(".product .food").src = item.image;
+})
+
+mini_pizza.map((item, index)=>{
+
+    let product = document.querySelector("#clone .conteiner").cloneNode(true);
+
+    document.getElementById("Pizza").append(product);
+
+    product.querySelector(".center .responsive_food").innerHTML = item.food_name;
+   product.querySelector(".center .ingredients").innerHTML = item.description;
+   product.querySelector(".center .responsive_price").innerHTML = "R$ " + item.price;
+   product.querySelector(".product .food").src = item.image;
+})

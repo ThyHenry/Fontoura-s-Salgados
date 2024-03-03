@@ -124,14 +124,24 @@ a {
 }
 
 .menu {
-    margin-left: 50px;
+    margin-left: 0px;
     margin-top: 50px;
-    margin-bottom: 20px;
-    font-size: 16px;
+    /* margin-bottom: 20px; */
+    font-size: 26px;
     transition: 0.6s;
+    text-align: center;
 }
 
 #mini_menu {
+    /* margin-top: 70px; */
+}
+
+.title {
+    margin-left: 50px;
+    padding-top: 90px;
+}
+
+#product {
     margin-top: 70px;
 }
 
@@ -142,15 +152,15 @@ a {
     transition: 0.6s;
 }
 
-#link_minipizzas {
-    margin-top: 70px;
+#link_salgados {
+    /* margin-top: 70px; */
 }
 
 #end_line {
     margin-top: 80px;
 }
 
-#layout {
+.organize {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -347,10 +357,15 @@ a {
     }
 
     .menu {
-        font-size: 13px;
+        font-size: 16px;
     }
 
-    #layout {
+    .title {
+        font-size: 24px;
+        margin-left: 30px;
+    }
+
+    .organize {
         grid-template: 1fr/ 1fr;
     }
 
